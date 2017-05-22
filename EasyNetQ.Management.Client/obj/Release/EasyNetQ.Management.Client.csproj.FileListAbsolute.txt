@@ -1,0 +1,7 @@
+C:\Users\scott.taketani\Documents\Visual Studio 2013\Projects\EasyNetQ.Management.Client-neuronesb\Source\EasyNetQ.Management.Client\bin\Release\EasyNetQ.Management.Client.dll
+C:\Users\scott.taketani\Documents\Visual Studio 2013\Projects\EasyNetQ.Management.Client-neuronesb\Source\EasyNetQ.Management.Client\bin\Release\EasyNetQ.Management.Client.pdb
+C:\Users\scott.taketani\Documents\Visual Studio 2013\Projects\EasyNetQ.Management.Client-neuronesb\Source\EasyNetQ.Management.Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\scott.taketani\Documents\Visual Studio 2013\Projects\EasyNetQ.Management.Client-neuronesb\Source\EasyNetQ.Management.Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\scott.taketani\Documents\Visual Studio 2013\Projects\EasyNetQ.Management.Client-neuronesb\Source\EasyNetQ.Management.Client\obj\Release\EasyNetQ.Management.Client.csprojResolveAssemblyReference.cache
+C:\Users\scott.taketani\Documents\Visual Studio 2013\Projects\EasyNetQ.Management.Client-neuronesb\Source\EasyNetQ.Management.Client\obj\Release\EasyNetQ.Management.Client.dll
+C:\Users\scott.taketani\Documents\Visual Studio 2013\Projects\EasyNetQ.Management.Client-neuronesb\Source\EasyNetQ.Management.Client\obj\Release\EasyNetQ.Management.Client.pdb
