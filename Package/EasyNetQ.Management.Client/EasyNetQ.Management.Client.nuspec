@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>EasyNetQ.Management.Client</id>
+    <id>EasyNetQ.Management.Client.NET462</id>
     <!-- Version gets updated from EasyNetQ.dll version number during the build's packaging process -->
     <version>0.47.7.0</version>
     <title>EasyNetQ.Management.Client</title>
