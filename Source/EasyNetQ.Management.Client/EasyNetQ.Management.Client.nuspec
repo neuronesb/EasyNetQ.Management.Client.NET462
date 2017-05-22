@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>EasyNetQ.Management.Client</id>
+    <id>EasyNetQ.Management.Client.NET462</id>
     <version>$version$</version>
     <title>EasyNetQ.Management.Client</title>
     <authors>Mike Hadlow</authors>
